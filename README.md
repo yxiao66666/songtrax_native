@@ -83,9 +83,8 @@ SongTrax interacts with a RESTful API for storing and retrieving data. Key endpo
 - Displays a map with music locations.
 - Shows user’s current location.
 <p align="center">
-  <img src = images/pages.png alt = "screenshots" width = 100% >
+  <img src = images/lightmode_maps.png alt = "lightmode_maps" width = 100% >
 <p>
-   
 <p align="center">
   Screenshots
 <p>
