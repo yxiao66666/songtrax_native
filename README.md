@@ -40,7 +40,7 @@ Ensure you have the following installed:
 ### Steps to Run the App
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/songtrax.git
+   git clone https://github.com/yxiao66666/songtrax.git
    cd songtrax
    ```
 2. Install dependencies:
@@ -49,7 +49,7 @@ Ensure you have the following installed:
    ```
 3. Set up the API key in an environment file:
    ```sh
-   echo "API_KEY=your_api_key" > .env
+   echo "API_KEY=api_key" > .env
    ```
 4. Run the app:
    - iOS:
@@ -63,7 +63,7 @@ Ensure you have the following installed:
 
 ## API Usage
 SongTrax interacts with a RESTful API for storing and retrieving data. Key endpoints include:
-- `GET /api/sampletolocation/?api_key=[your_api_key]&location_id=1` - Retrieves samples at a specific location.
+- `GET /api/sampletolocation/?api_key=[api_key]&location_id=1` - Retrieves samples at a specific location.
 - `POST /api/samplerating/` - Submits a rating for a sample.
 
 ## App Structure
@@ -82,7 +82,14 @@ SongTrax interacts with a RESTful API for storing and retrieving data. Key endpo
 ### Map Page
 - Displays a map with music locations.
 - Shows user’s current location.
-
+<p align="center">
+  <img src = images/pages.png alt = "screenshots" width = 100% >
+<p>
+   
+<p align="center">
+  Screenshots
+<p>
+   
 ### Music at Location Page
 - Lists available samples at a nearby location.
 - Users can play samples and see ratings.
@@ -93,6 +100,8 @@ SongTrax interacts with a RESTful API for storing and retrieving data. Key endpo
 
 ### Profile Page
 - Allows users to set their name and upload a profile picture.
+
+## Screenshots and Usage Example
 
 ## Contributing
 1. Fork the repository.
