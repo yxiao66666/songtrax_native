@@ -86,21 +86,37 @@ SongTrax interacts with a RESTful API for storing and retrieving data. Key endpo
   <img src = images/lightmode_maps.png alt = "lightmode_maps" width = 20% >
 <p>
 <p align="center">
-  Screenshots
+  Map Screenshots
 <p>
    
 ### Music at Location Page
 - Lists available samples at a nearby location.
 - Users can play samples and see ratings.
-
+<p align="center">
+  <img src = images/lightmode_songsatlocation.png alt = "lightmode_songsatlocation" width = 20% >
+<p>
+<p align="center">
+  Music at Location Screenshots
+<p>
+   
 ### Play Sample Page
 - Plays music samples via WebView.
 - Users can rate the sample.
+<p align="center">
+  <img src = images/lightmode_playsong.png alt = "lightmode_playsong" width = 20% >
+<p>
+<p align="center">
+  Play Song Screenshots
+<p>
 
 ### Profile Page
 - Allows users to set their name and upload a profile picture.
-
-## Screenshots and Usage Example
+<p align="center">
+  <img src = images/lightmode_photoadded.png alt = "lightmode_photoadded" width = 20% >
+<p>
+<p align="center">
+  Play Profile Screenshots
+<p>
 
 ## Contributing
 1. Fork the repository.
