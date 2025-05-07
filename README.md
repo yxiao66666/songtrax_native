@@ -121,7 +121,7 @@ SongTrax interacts with a RESTful API for storing and retrieving data. Key endpo
 ### Video Demonstration 
 - A video that demonstrates Songtrax's functionality.
 <p align="center">
-  <img src = images/Songtrax_Native_Video.mp4 alt = "Songtrax_Native_Video" width = 20% >
+  <img src = Screenshot/Songtrax_Native_Video.mp4 alt = "Songtrax_Native_Video" width = 20% >
 <p>
 <p align="center">
   Video Demonstration
