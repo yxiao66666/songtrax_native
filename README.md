@@ -118,6 +118,16 @@ SongTrax interacts with a RESTful API for storing and retrieving data. Key endpo
   Play Profile Screenshots
 <p>
 
+### Video Demonstration 
+- A video that demonstrates Songtrax's functionality.
+<p align="center">
+  <img src = images/Songtrax_Native_Video.mp4 alt = "Songtrax_Native_Video" width = 20% >
+<p>
+<p align="center">
+  Video Demonstration
+<p>
+
+
 ## Contributing
 1. Fork the repository.
 2. Create a new branch for your feature (`git checkout -b feature-name`).
